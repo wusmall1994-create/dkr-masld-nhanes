@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and archived software release."
+title: "Dietary ketogenic ratio, self-reported low-carbohydrate dieting, and MASLD in NHANES 2017-2023 — analysis code"
+type: software
+authors:
+  - family-names: "Liang"
+    given-names: "Huadong"
+  - family-names: "Wu"
+    given-names: "Xiaoxin"
+  - family-names: "Huang"
+    given-names: "Shumin"
+  - family-names: "Liu"
+    given-names: "Yiming"
+  - family-names: "Zheng"
+    given-names: "Fengxiang"
+version: 1.0.0
+date-released: 2026-07-31
+license: MIT
+repository-code: "https://github.com/wusmall1994-create/dkr-masld-nhanes"
