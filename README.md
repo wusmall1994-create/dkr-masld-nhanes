@@ -26,6 +26,3 @@ correlations with stratified jackknife confidence intervals.
 measurement >=8 kPa using the same design, standardization, covariates, and
 inference as the main analysis.
 
-Pre-registration disclosure: exposure-distribution feasibility checks were
-performed before the formal analysis. No DKR-CAP or DKR-MASLD association model
-had been examined at that stage.
