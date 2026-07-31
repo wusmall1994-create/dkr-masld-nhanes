@@ -1,5 +1,7 @@
 # Reproducible analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21724488.svg)](https://doi.org/10.5281/zenodo.21724488)
+
 Run from the workspace root:
 
 ```sh
@@ -26,3 +28,6 @@ correlations with stratified jackknife confidence intervals.
 measurement >=8 kPa using the same design, standardization, covariates, and
 inference as the main analysis.
 
+Pre-registration disclosure: exposure-distribution feasibility checks were
+performed before the formal analysis. No DKR-CAP or DKR-MASLD association model
+had been examined at that stage.
